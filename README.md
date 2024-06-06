@@ -3,7 +3,7 @@
 ## I'm a Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn React
+- 🥅 2024 Goals: Master React 💪
 - ⚡ Fun fact: I like listening to music
 
 ### Languages and Tools:
